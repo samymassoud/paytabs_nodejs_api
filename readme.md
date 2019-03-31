@@ -2,7 +2,7 @@
 
 [![N|PayTabs](https://www.paytabs.com/en/wp-content/uploads/2015/12/paytabs-logo.png)](https://dev.paytabs.com/docs/paypage.html)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[[![Build Status](https://travis-ci.org/samymassoud/paytabs_nodejs_api.svg?branch=master)](https://travis-ci.org/samymassoud/paytabs_nodejs_api)
 
 PayTabs rest API for NodeJs is a package which implements the public API for create paypage of PayTabs.
 The package covers the following functions:
